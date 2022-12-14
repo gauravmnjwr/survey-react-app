@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e32b4f68.css",
+    "main.js": "/static/js/main.0ba86f99.js",
+    "static/media/camp-lejeune-map.jpg": "/static/media/camp-lejeune-map.5f03dff6d5d6f538e32d.jpg",
+    "static/media/approved.jpg": "/static/media/approved.141b25b7132db8fbfd11.jpg",
+    "index.html": "/index.html",
+    "main.e32b4f68.css.map": "/static/css/main.e32b4f68.css.map",
+    "main.0ba86f99.js.map": "/static/js/main.0ba86f99.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e32b4f68.css",
+    "static/js/main.0ba86f99.js"
+  ]
+}
